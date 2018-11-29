@@ -1,11 +1,11 @@
 ![](/Xylophone/Assets.xcassets/AppIcon.appiconset/Icon-40@2x.png.png)
 #  Xylophone
 
-## What you will create
+## What is created
 
 You will be making your first musical instrument! Musical apps are so popular on the App Store that they even get their own category. We’re going to make a colourful XyloPhone app. Get it? Ok, the jokes are bad, but remember, I only wrote the good ones ...
 
-## What you will learn
+## What is learned
 
 * How to play sound using AVFoundation and AVAudioPlayer.
 * The ViewController lifecycle.

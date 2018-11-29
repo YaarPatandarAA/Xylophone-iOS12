@@ -1,4 +1,4 @@
-
+![](/Xylophone/Assets.xcassets/AppIcon.appiconset/Icon-40@2x.png.png)
 #  Xylophone
 
 ## What you will create
